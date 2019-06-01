@@ -1,0 +1,86 @@
+@media only screen and (max-width: 767px) {
+    p{
+        font-size: 14px;
+    }
+    a{
+        font-size: 14px;
+    }
+    .banner{
+        margin-top: 0;
+    }
+    .navbar-toggler:focus{
+        outline: none;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 0.5rem 0rem;
+    }
+    .navbar-nav{
+        margin-top: 20px;
+        border-top: 1px solid #222;
+    }
+    .banner p{
+        font-size: 20px;
+    }
+    .banner h1{
+        font-size: 50px;
+    }
+    .portfolio_img{
+        width: 260px;
+    }
+    .portfolio_img::after{
+        border: none;
+    }
+    .about h1{
+        text-align: center;
+        border-top: 2px solid #222;
+    }
+    .about .designation{
+        text-align: center;
+    }
+    .btn-primary{
+        font-size: 12px;
+    }
+    ul.contact li{
+        font-size: 14px;
+    }
+    .personal_details h4{
+        padding-bottom: 15px;
+    }
+    .personal_details img{
+        margin-top: 20px;
+    }
+    .personal_details{
+        padding-top: 40px;
+    }
+    .mob-margin-bottom{
+        margin-bottom: 30px;
+    }
+    .myworks h4{
+        text-align: center;
+    }
+    .myworks p{
+        margin: 1rem !important;
+    }
+    .mob-margin-top-none{
+        margin-top: 0;
+    }
+    .screen{
+        height: 396px;
+    }
+    .mobileappwork p{
+        margin: 1rem 0;
+    }
+    .mobileappwork .carousel-control-prev{
+        left: 30%;
+    }
+    .mobileappwork .carousel-control-next{
+        right: 30%;
+    }
+    .mob-margin-top-30{
+        margin-top: 30px;
+    }
+    ul.footersocial li a{
+        font-size: 20px;
+    }
+}
+
